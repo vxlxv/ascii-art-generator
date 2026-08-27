@@ -46,7 +46,6 @@ Customize your output with colors, choose from **500+ PyFiglet fonts**, and expo
 | 🖥️ Interface     | Terminal / CLI   |
 | 📜 License        | Add your license |
 
-> Replace `YOUR_USERNAME/YOUR_REPOSITORY` in the badges with your actual GitHub username and repository name.
 
 ---
 
