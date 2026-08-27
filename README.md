@@ -23,15 +23,15 @@ Customize your output with colors, choose from **500+ PyFiglet fonts**, and expo
 
 ## 📊 GitHub Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/vxlxv/ascii-art-generator?style=for-the-badge)
 
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/vxlxv/ascii-art-generator?style=for-the-badge)
 
-![GitHub Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/vxlxv/ascii-art-generator?style=for-the-badge)
 
-![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/vxlxv/ascii-art-generatorY?style=for-the-badge)
 
-![GitHub Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/vxlxv/ascii-art-generator?style=for-the-badge)
 
 ### Project Information
 
