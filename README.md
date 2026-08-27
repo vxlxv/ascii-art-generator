@@ -29,7 +29,7 @@ Customize your output with colors, choose from **500+ PyFiglet fonts**, and expo
 
 ![GitHub Issues](https://img.shields.io/github/issues/vxlxv/ascii-art-generator?style=for-the-badge)
 
-![GitHub License](https://img.shields.io/github/license/mit/ascii-art-generatorY?style=for-the-badge)
+[![GitHub License](https://img.shields.io/github/license/vxlxv/ascii-art-generatorY?style=for-the-badge)](https://github.com/vxlxv/ascii-art-generatorY/blob/main/LICENSE)
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/vxlxv/ascii-art-generator?style=for-the-badge)
 
