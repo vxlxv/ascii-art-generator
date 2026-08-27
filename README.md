@@ -444,7 +444,7 @@ It helps the project grow and motivates future development.
 
 This project is open source.
 
-Add your preferred license to the repository, for example:
+LICENSE IS IN THE REPO:
 
 ```text
 MIT License
